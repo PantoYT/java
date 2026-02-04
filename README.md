@@ -1,2 +1,7 @@
-# java
-My simple java projects!
+Simple Java Projects
+A collection of small Java projects created for learning and experimentation.
+
+Notes
+Projects labeled v1 are initial versions.
+Each folder represents a separate project
+Feel free to explore and use the code.
